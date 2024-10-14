@@ -1,0 +1,21 @@
+/Users/crossj/Library/CloudStorage/OneDrive-OtagoPolytechnic/UC/2024/INFO125/Homework 1/jcr168-Homework1/bin/Debug/jcr168-Homework1.exe.config
+/Users/crossj/Library/CloudStorage/OneDrive-OtagoPolytechnic/UC/2024/INFO125/Homework 1/jcr168-Homework1/bin/Debug/jcr168-Homework1.exe
+/Users/crossj/Library/CloudStorage/OneDrive-OtagoPolytechnic/UC/2024/INFO125/Homework 1/jcr168-Homework1/bin/Debug/jcr168-Homework1.pdb
+/Users/crossj/Library/CloudStorage/OneDrive-OtagoPolytechnic/UC/2024/INFO125/Homework 1/jcr168-Homework1/obj/Debug/jcr168-Homework1.csproj.AssemblyReference.cache
+/Users/crossj/Library/CloudStorage/OneDrive-OtagoPolytechnic/UC/2024/INFO125/Homework 1/jcr168-Homework1/obj/Debug/jcr168_Homework1.Hungry.resources
+/Users/crossj/Library/CloudStorage/OneDrive-OtagoPolytechnic/UC/2024/INFO125/Homework 1/jcr168-Homework1/obj/Debug/jcr168_Homework1.Properties.Resources.resources
+/Users/crossj/Library/CloudStorage/OneDrive-OtagoPolytechnic/UC/2024/INFO125/Homework 1/jcr168-Homework1/obj/Debug/jcr168-Homework1.csproj.GenerateResource.cache
+/Users/crossj/Library/CloudStorage/OneDrive-OtagoPolytechnic/UC/2024/INFO125/Homework 1/jcr168-Homework1/obj/Debug/jcr168-Homework1.csproj.CoreCompileInputs.cache
+/Users/crossj/Library/CloudStorage/OneDrive-OtagoPolytechnic/UC/2024/INFO125/Homework 1/jcr168-Homework1/obj/Debug/jcr168-Homework1.exe
+/Users/crossj/Library/CloudStorage/OneDrive-OtagoPolytechnic/UC/2024/INFO125/Homework 1/jcr168-Homework1/obj/Debug/jcr168-Homework1.pdb
+C:\Users\jcr168\OneDrive - University of Canterbury\UC\2024\INFO125\Homework 1\jcr168-Homework1\bin\Debug\jcr168-Homework1.exe.config
+C:\Users\jcr168\OneDrive - University of Canterbury\UC\2024\INFO125\Homework 1\jcr168-Homework1\bin\Debug\jcr168-Homework1.exe
+C:\Users\jcr168\OneDrive - University of Canterbury\UC\2024\INFO125\Homework 1\jcr168-Homework1\bin\Debug\jcr168-Homework1.pdb
+C:\Users\jcr168\OneDrive - University of Canterbury\UC\2024\INFO125\Homework 1\jcr168-Homework1\obj\Debug\jcr168-Homework1.csproj.AssemblyReference.cache
+C:\Users\jcr168\OneDrive - University of Canterbury\UC\2024\INFO125\Homework 1\jcr168-Homework1\obj\Debug\jcr168-Homework1.csproj.SuggestedBindingRedirects.cache
+C:\Users\jcr168\OneDrive - University of Canterbury\UC\2024\INFO125\Homework 1\jcr168-Homework1\obj\Debug\jcr168_Homework1.Hungry.resources
+C:\Users\jcr168\OneDrive - University of Canterbury\UC\2024\INFO125\Homework 1\jcr168-Homework1\obj\Debug\jcr168_Homework1.Properties.Resources.resources
+C:\Users\jcr168\OneDrive - University of Canterbury\UC\2024\INFO125\Homework 1\jcr168-Homework1\obj\Debug\jcr168-Homework1.csproj.GenerateResource.cache
+C:\Users\jcr168\OneDrive - University of Canterbury\UC\2024\INFO125\Homework 1\jcr168-Homework1\obj\Debug\jcr168-Homework1.csproj.CoreCompileInputs.cache
+C:\Users\jcr168\OneDrive - University of Canterbury\UC\2024\INFO125\Homework 1\jcr168-Homework1\obj\Debug\jcr168-Homework1.exe
+C:\Users\jcr168\OneDrive - University of Canterbury\UC\2024\INFO125\Homework 1\jcr168-Homework1\obj\Debug\jcr168-Homework1.pdb
